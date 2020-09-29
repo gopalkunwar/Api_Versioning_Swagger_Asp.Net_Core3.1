@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Versioning_Swagger_Asp.Net_Core3.1", "Api_Versioning_Swagger_Asp.Net_Core3.1\Api_Versioning_Swagger_Asp.Net_Core3.1.csproj", "{65D95304-C749-4044-87CB-CB8DAFA33EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D95304-C749-4044-87CB-CB8DAFA33EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D95304-C749-4044-87CB-CB8DAFA33EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D95304-C749-4044-87CB-CB8DAFA33EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D95304-C749-4044-87CB-CB8DAFA33EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {597B9090-13DB-4528-96C9-DC98528B067F}
+	EndGlobalSection
+EndGlobal
